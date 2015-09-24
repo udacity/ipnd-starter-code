@@ -33,6 +33,6 @@ class Handler(Handler):
 class MainPage(Handler):
     def get(self):
         items = self.request.get_all("food")
-        self.render("shopping_list_html", items = items)
+        self.render("shopping_list.html", items = items)
 
 app = webapp2.WSGIApplication([("/", MainPage)])
