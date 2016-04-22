@@ -7,8 +7,6 @@
 # So in our example we could have both TVShow and Movie inherit from a class
 # Video which includes all the shared attributes between Movie and TVShow.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4195428894/m-1016138543
-
 class Parent():
     def __init__(self, last_name, eye_color):
         print("Parent Constructor Called")

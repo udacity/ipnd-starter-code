@@ -4,7 +4,7 @@
 # Programmers use functions all the time! They may seem confusing at first but
 # the more you use and make them, the better you'll get!
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4141089439/m-48667860
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4141089439/concepts/50282994840923
 
 def rest_of_string(s):
     return s[1:]

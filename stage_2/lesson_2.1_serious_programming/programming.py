@@ -5,7 +5,7 @@
 # Thankfully, Python follows the same math rules people do.
 # See if you can predict the output of this code.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4180729266/m-48652460
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4180729266/concepts/49786550990923
 
 print 3
 print 1 + 1

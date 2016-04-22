@@ -4,7 +4,7 @@
 # multiple times. For loops make iterating through elements in a list
 # easier than using a while loop.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4152219158/m-48204891
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4152219158/concepts/50309288180923
 
 def print_all_elements(p):
     for e in p:

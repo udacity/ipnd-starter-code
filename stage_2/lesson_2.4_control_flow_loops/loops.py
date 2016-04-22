@@ -4,7 +4,7 @@
 # Loops let us run blocks of code many times which can be
 # really useful when we have to repeat tasks.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4196788670/e-48686708/m-48480488
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4196788670/concepts/50222508420923
 
 def count():
     i = 0

@@ -8,7 +8,7 @@
 # We sometimes call numbers without a variable "magic numbers"
 # It's best to reduce the amount of "magic numbers" in our code
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4192698630/m-48660987
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4192698630/concepts/48904185560923
 
 speed_of_light = 299792458.0
 billionth = 1.0 / 1000000000.0

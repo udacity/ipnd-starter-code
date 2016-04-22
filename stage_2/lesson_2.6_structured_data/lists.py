@@ -5,7 +5,7 @@
 # characters, even lists of lists! And we can mix up the contents
 # too so we can have lists containing many different things.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4180729266/m-48652460
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4152219158/concepts/50376191640923
 
 p = ['y', 'a', 'b', 'b', 'a', '!']
 print p

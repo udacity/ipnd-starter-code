@@ -8,8 +8,6 @@
 # After you run this code, open the file fresh_tomatoes.html to
 # see your webpage!
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4185678656/e-991358856/m-1013629064
-
 import media
 import fresh_tomatoes
 

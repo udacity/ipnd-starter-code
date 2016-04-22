@@ -6,8 +6,6 @@
 # class definitions separate from the rest of their code. This also
 # gives you practice importing Python files.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4185678656/m-1013629057
-
 import webbrowser
 
 class Movie():

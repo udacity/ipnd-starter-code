@@ -6,7 +6,7 @@
 # quiz responses and then copy and paste into the
 # Udacity quiz nodes.
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4184188665/m-108325398
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4184188665/concepts/49934588850923
 
 # Simple Mechanical Algorithm
 # days = 0

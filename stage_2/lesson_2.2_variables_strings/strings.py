@@ -5,7 +5,7 @@
 # to variables. We can even combine strings by adding them (we call
 # this concatenation).
 
-# https://www.udacity.com/course/viewer#!/c-nd000/l-4192698630/m-48700403
+# https://classroom.udacity.com/nanodegrees/nd000/parts/0001345403/modules/356813882475460/lessons/4192698630/concepts/49819819440923
 
 print 'Hello'
 print "Hello"
