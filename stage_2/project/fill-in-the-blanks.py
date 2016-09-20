@@ -33,4 +33,4 @@ tuple, and ___4___ or can be more complicated such as objects and lambda functio
 # In the Mad Libs generator, you take a paragraph and replace all instances of NOUN and VERB.
 # How can you adapt that design to work with numbered blanks?
 
-# If you need help, you can sign up for a 1 on 1 coaching appointment: https://calendly.com/ipnd1-1/20min/
+# If you need help, you can sign up for a 1 on 1 coaching appointment: https://calendly.com/ipnd-1-1/20min/
