@@ -1,4 +1,4 @@
-# Intro to Programming Nanodegree Starter Code
+# DEPRECATED Intro to Programming Nanodegree Starter Code
 
 The files in this repository are here to help you follow along as you complete the Intro to Programming Nanodegree.
 Each file contains a short description of what you can expect to learn in the lesson along with a bit of code.
